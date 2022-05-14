@@ -1,0 +1,3 @@
+$("#one").accordion({
+    collapsible:true
+  })
